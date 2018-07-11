@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b493fa34-2ea9-4ed5-8a42-0e7954122007" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/a3c/A3C_continuous_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ac/ActorCritic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a3c/A3C_continuous_action.py" beforeDir="false" afterPath="$PROJECT_DIR$/a3c/A3C_continuous_action.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ac/ActorCritic.py" beforeDir="false" afterPath="$PROJECT_DIR$/ac/ActorCritic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradient/RL_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/gradient/RL_brain.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/maze/RL_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/maze/RL_brain.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/maze/maze_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/maze/maze_env.py" afterDir="false" />
@@ -68,8 +68,8 @@
       <file leaf-file-name="A3C_continuous_action.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/a3c/A3C_continuous_action.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="125" column="19" selection-start-line="125" selection-start-column="19" selection-end-line="125" selection-end-column="19" />
+            <state relative-caret-position="177">
+              <caret line="189" lean-forward="true" selection-start-line="189" selection-end-line="189" />
               <folding>
                 <element signature="e#10#32#0" expanded="true" />
               </folding>
@@ -136,10 +136,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="457" />
-    <option name="y" value="75" />
+    <option name="x" value="456" />
     <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -154,6 +153,11 @@
             <path>
               <item name="learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="a3c" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -316,6 +320,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16248348" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
@@ -352,13 +357,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/maze/maze_env.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2472">
-          <caret line="105" column="26" selection-start-line="105" selection-start-column="26" selection-end-line="105" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Anaconda3/envs/machine/Lib/tkinter/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40824">
@@ -705,10 +703,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/a3c/A3C_discrete_action.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/a3c/A3C_continuous_action.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="125" column="19" selection-start-line="125" selection-start-column="19" selection-end-line="125" selection-end-column="19" />
+        <state relative-caret-position="177">
+          <caret line="189" lean-forward="true" selection-start-line="189" selection-end-line="189" />
           <folding>
             <element signature="e#10#32#0" expanded="true" />
           </folding>
